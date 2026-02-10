@@ -1,0 +1,46 @@
+{
+  "name": "FLASH E-Commerce",
+  "short_name": "FLASH",
+  "description": "Fast, Lightning-quick Shopping - FLASH E-Commerce Platform",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><rect fill=%22%23FF6B35%22 width=%22192%22 height=%22192%22/><text y=%222.23em%22 x=%220.5em%22 font-size=%22200%22 fill=%22white%22>⚡</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 512 512%22><rect fill=%22%23FF6B35%22 width=%22512%22 height=%22512%22/><text y=%222.23em%22 x=%220.5em%22 font-size=%22550%22 fill=%22white%22>⚡</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><rect fill=%22%23FF6B35%22 width=%22192%22 height=%22192%22 rx=%2245%22/><text y=%222.23em%22 x=%220.5em%22 font-size=%22200%22 fill=%22white%22>⚡</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["shopping", "e-commerce"],
+  "screenshots": [
+    {
+      "src": "img/1.jfif",
+      "sizes": "540x720",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "img/1.jfif",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ]
+}
